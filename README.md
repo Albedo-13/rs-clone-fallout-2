@@ -1,4 +1,4 @@
-# Fallout 2 Rolling Scopes School Clone
+# Fallout 2 Clone - Rolling Scopes School
 
 Репозиторий клона игры Fallout 2, разработанный в команде с [Алиной](https://github.com/AlinaLaniuk) и [Кириллом](https://github.com/slysnek) в рамках финального четырехнедельного проекта на курсах [Rolling Scopes School - Javascript](https://rs.school/js/). Спасибо ребятам за эти 4 недели, было круто поработать с вами в команде! Как по мне, так для первой игры проект получился офигенным. Но больше я в разработку игр ни ногой))
 
