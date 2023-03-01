@@ -1,12 +1,12 @@
 # Fallout 2 Clone - Rolling Scopes School
 
-Репозиторий клона игры Fallout 2, разработанный в команде с [Алиной](https://github.com/AlinaLaniuk) и [Кириллом](https://github.com/slysnek) в рамках финального четырехнедельного проекта на курсах [Rolling Scopes School - Javascript](https://rs.school/js/). Спасибо ребятам за эти 4 недели, было круто поработать с вами в команде! Как по мне, так для первой игры проект получился офигенным. Но больше я в разработку игр ни ногой))
+The Fallout 2 clone repository, developed in a team with [Alina](https://github.com/AlinaLaniuk) and [Kirill](https://github.com/slysnek) as part of the final four-week project at the [Rolling Scopes School - Javascript](https://rs.school/js/) courses. Thank you guys for these 4 weeks, it was cool to work with you as a team! As for me, the project turned out to be awesome for the first game. But I'm not into game development anymore))
 
-* **<ins>ССЫЛКА НА ДЕПЛОЙ</ins> -** https://fallout-clone.netlify.app/
+* **<ins>DEPLOY LINK</ins> -** https://fallout-clone.netlify.app/
 
-* **Техническое задание -** https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md
+* **Technical specification -** https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md
 
-* **Стек технологий:**
+* **Technology stack:**
   * HTML
   * CSS, SCSS
   * Javascript
